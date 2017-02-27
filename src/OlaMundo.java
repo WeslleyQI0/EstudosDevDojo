@@ -1,8 +1,10 @@
-
+/**
+ * Created by Weslley on 26/02/2017.
+ */
 public class OlaMundo {
     public static void main (String[] args){
         System.out.println("Olá diretamente do intellej");
-        // System.out.println("Teste Git");
+        System.out.println("Olá diretamente do intellej");
 
     }
 }
