@@ -6,7 +6,9 @@ public class ImprimindoVariaveis {
 
         int idade = 10 ;
         int idadeDosPaisParaCadastro = 15;
+        boolean sexo = true;
+        double altura = 1.70;
 
-        System.out.println(+idade+"\n"+idadeDosPaisParaCadastro);
+        System.out.println(idade+"\n"+idadeDosPaisParaCadastro+"\n"+altura);
     }
 }
