@@ -7,6 +7,6 @@ public class ImprimindoVariaveis {
         int idade = 10 ;
         int idadeDosPaisParaCadastro = 15;
 
-        System.out.println(idade&idadeDosPaisParaCadastro);
+        System.out.println(+idade+"\n"+idadeDosPaisParaCadastro);
     }
 }
