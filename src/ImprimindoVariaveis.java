@@ -5,11 +5,16 @@ public class ImprimindoVariaveis {
     public static void main(String[] args) {
 
         int idade = 10 ;
-        int idadeDosPaisParaCadastro = 15;
+        double salarioDouble = 3000;
+        float salarioFloat = 3000;
+        byte idadeByte = 12;
+        short idadeShort = 32767;
         boolean verdadeiro = true;
-        double altura = 1.70;
-        char sexo = 'M';
-
-        System.out.println(idade+"\n"+idadeDosPaisParaCadastro+"\n"+altura+"\n"+sexo);
+        boolean falso = false;
+        long numeroGrande = 1000L;
+        char caractere = 'A'; //2 bytes
+        char caractere2 = 78; //2 bytes
+        String nome = "William";
+        System.out.println(caractere2);
     }
 }
